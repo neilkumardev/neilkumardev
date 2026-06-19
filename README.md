@@ -2,7 +2,7 @@
 
 Founder & developer building AI products for civic systems, research, and student productivity.
 
-[Website](https://yourwebsite.com) · [LinkedIn](https://linkedin.com/in/your-link) · [Email](mailto:youremail@example.com)
+[Website](https://kumarneil.com) · [LinkedIn](https://linkedin.com/in/imneilkumar) · [Email](mailto:neilkumar.dev@gmail.com) · [X](x.com/im_neilkumar)
 
 ## About
 
