@@ -10,4 +10,4 @@ I founded FindIt AI, an AI-powered lost-and-found automation platform adopted by
 
 Currently, I'm building products around AI agents, civic systems, and real-world automation.
 
-I'm always open to thoughtful conversations. Reach me at (mailto:neilkumar.dev@gmail.com)
+I'm always open to thoughtful conversations. Reach me at neilkumar.dev@gmail.com!
