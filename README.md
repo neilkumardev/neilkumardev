@@ -4,10 +4,10 @@
 
 ## About
 
-I'm a freshman at Bellevue High School and a student founder and developer working at the intersection of AI, civic technology, and product design.
+I'm a freshman at Bellevue High School and a student founder and developer working at the intersection of technology, enterprise & consumer products, and product design.
 
 I founded FindIt AI, an AI-powered lost-and-found automation platform adopted by Bellevue College and Odle Middle School, and was featured by GeekWire.
 
-Currently, I'm building products around AI agents, civic systems, and real-world automation.
+Currently, I'm building Anchor and rizzbattle.live.
 
 I'm always open to thoughtful conversations. Reach me at neilkumar.dev@gmail.com!
