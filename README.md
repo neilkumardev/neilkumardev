@@ -4,9 +4,9 @@
 
 ## About
 
-Hi, I’m Neil Kumar. I’m a freshman at Bellevue High School, the founder and CEO of FindIt AI, an athlete, and an artist. Most of what I do comes from the same instinct: I like finding problems, meeting people close to them, and building things that make those problems easier to solve.
+Hi, I’m Neil Kumar. I’m a freshman at Bellevue High School, the founder and CEO of FindIt AI, an athlete, and an artist.
 
-I’ve always been drawn to different worlds — biotech, aerospace, civic technology, consumer products, music, and sports — because each one teaches me a different way to think. I’m especially interested in the places where meaningful problems meet software, AI, and design.
+I'm passionate about finding innovative solutions to problems which must be solved for people.
 
 Right now, I’m building FindIt AI, an AI-powered lost-and-found platform for schools, colleges, and institutions. I’m also working on rizzbattle.live, a viral social product, and Anchor, a productivity tool for ambitious students and builders. My first real venture was TopDesk PCs, which I started in 6th grade. I built and sold 50+ custom PCs and taught computer workshops for students from 5th to 12th grade.
 
