@@ -12,4 +12,4 @@ Right now, I’m building FindIt AI, an AI-powered lost-and-found platform for s
 
 Outside of startups, I make music, swim for Bellevue High Varsity Swive, and train in taekwondo (currently working toward my 3rd degree black belt). I’m usually somewhere between a product idea, a research problem, an outreach message, a workout, or a random thing I want to ship.
 
-I’m always open to thoughtful conversations. Reach me at neilkumar.dev@gmail.com.
+I’m always open to thoughtful conversations! Feel free to reach me at neilkumar.dev@gmail.com.
