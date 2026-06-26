@@ -4,7 +4,7 @@
 
 ## About
 
-Hi, I’m Neil Kumar. I’m a freshman at Bellevue High School, the founder and CEO of FindIt AI, an athlete, and an artist.
+Hello, I’m Neil Kumar. I’m a freshman at Bellevue High School, the founder and CEO of FindIt AI, an athlete, and an artist.
 
 I'm passionate about finding innovative solutions to problems which must be solved for people.
 
