@@ -14,8 +14,4 @@ I'm passionate about finding innovative solutions to problems which must be solv
 
 Right now, I’m building FindIt AI, an AI-powered lost-and-found platform for schools, colleges, and institutions. I’m also working on rizzbattle.live, a viral social product, and Anchor, a productivity tool for ambitious students and builders. My first real venture was TopDesk PCs, which I started in 6th grade. I built and sold 50+ custom PCs and taught computer workshops for students from 5th to 12th grade.
 
-I’m always open to thoughtful conversations! Feel free to reach me at neilkumar.dev@gmail.com.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilkumardev&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+I’m always open to thoughtful conversations! Feel free to reach me at neilkumar.dev@gmail.com or at my [Discord](https://discord.com/users/948247043141419039)!
