@@ -16,9 +16,6 @@ Right now, I’m building FindIt AI, an AI-powered lost-and-found platform for s
 
 I’m always open to thoughtful conversations! Feel free to reach me at neilkumar.dev@gmail.com.
 
-
-## Stats
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=neilkumardev&show_icons=true&hide_border=true&theme=default" alt="Neil's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilkumardev&layout=compact&hide_border=true" alt="Top languages" />
 </p>
