@@ -6,9 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=neilkumardev&label=Profile%20views&color=000000&style=flat" alt="profile views" />
 </p>
 
-## About
-
-Hi, I’m Neil Kumar. I am an incoming sophomore at Bellevue High School, the founder and CEO of FindIt AI, an athlete, and an artist.
+Hi, I’m Neil Kumar. I am an incoming sophomore at Bellevue High School, the founder of FindIt AI, an athlete, and an artist.
 
 I'm passionate about finding innovative solutions to problems which must be solved for people.
 
